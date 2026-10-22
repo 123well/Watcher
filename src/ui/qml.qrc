@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="Main.qml">qml/Main.qml</file>
+        <file>qml/RagPanel.qml</file>
+        <file>qml/RagBrowser.qml</file>
+        <file>qml/RagEditor.qml</file>
+</qresource>
+
+    <qresource prefix="/config">
+        <file alias="kinds.json">../config/kinds.json</file>
+    </qresource>
+</RCC>

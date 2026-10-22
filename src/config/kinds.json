@@ -1,0 +1,61 @@
+{
+  "system": {
+    "accent": "#60a5fa",
+    "title": "System",
+    "showTitle": true,
+    "hidden": true,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  },
+
+  "user": {
+    "accent": "#93c5fd",
+    "title": "",
+    "showTitle": false,
+    "hidden": false,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  },
+
+  "reasoning": {
+    "accent": "#9ca3af",
+    "title": "",
+    "showTitle": false,
+    "hidden": false,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  },
+
+  "assistant": {
+    "accent": "#4ade80",
+    "title": "",
+    "showTitle": false,
+    "hidden": false,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  },
+
+  "tool": {
+    "accent": "#f87171",
+    "title": "Tool",
+    "showTitle": true,
+    "hidden": false,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  },
+
+  "question": {
+    "accent": "#facc15",
+    "title": "Вопрос пользователю",
+    "showTitle": true,
+    "hidden": false,
+    "markdown": true,
+    "selectable": true,
+    "fontPixelSize": 14
+  }
+}
